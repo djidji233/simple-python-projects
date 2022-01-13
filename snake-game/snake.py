@@ -60,9 +60,9 @@ def main():
         clock.tick(10) 
         redrawWindow(win)
 
-rows = 
-w = 
-h = 
+rows = 0
+w = 0
+h = 0
 
 cube.rows = rows
 cube.w = w
